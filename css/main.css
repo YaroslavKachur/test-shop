@@ -1,0 +1,15 @@
+/* css шрифти
+font-family — задає сім= шрифта.
+
+font-style — задає стиль шрифту.
+
+font-variant — задає варіант шрифту.
+
+font-weight — задає жирність шрифту.
+
+font-size — вказує розмір шрифту.
+
+line-height — задає висоту строки.
+
+ */
+p {font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; }
