@@ -10,4 +10,4 @@ function loadComponent(id, url) {
     loadComponent("header", "./components/header.html");
     loadComponent("footer", "/components/footer.html");
   });
-  <div id="header"></div>
+  
